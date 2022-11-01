@@ -1,10 +1,10 @@
 Package: com.symplicity.16battery
-Version: 0.1
+Version: 0.1-1
 Section: Themes
 Maintainer: Symplicity
 Depends: com.spark.juice
 Architecture: iphoneos-arm
-Filename: ./debs/com.symplicity.16battery_0.1_iphoneos-arm.deb
+Filename: ./debs/com.symplicity.16battery_0.1-1_iphoneos-arm.deb
 Description: iOS 16.1 Theme for Juice
 Name: iOS 16.1 Battery Icon
 Author: Symplicity

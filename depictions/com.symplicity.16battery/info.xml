@@ -1,7 +1,7 @@
 <package>
 	<id>com.symplicity.16battery</id>
 	<name>iOS 16.1 Battery Icon</name>
-	<version>0.1</version>
+	<version>0.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
