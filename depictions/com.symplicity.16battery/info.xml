@@ -23,11 +23,13 @@
 			<description>This is a description for screenshot 2.</description>
 			<image>charging.jpg</image>
 		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 3.</description>
+			<image>statusbar.jpg</image>
+		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Inital release</change>
 	</changelog>
 	<links>
 		<link>
